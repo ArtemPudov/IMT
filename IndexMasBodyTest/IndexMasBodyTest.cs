@@ -1,12 +1,25 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using IndexMasBody;
+using System;
 namespace IndexMasBodyTest
 {
     
     [TestClass]
     public class IndexMasBodyTest
     {
-        
+        [TestMethod]
+        public void T_IMT()
+        {
+            double indexMB;
+            double height = 1.7;
+            double weight = 70;
+            indexMB = Math.Round(weight / (height * height), 2);
+            
+            Assert.AreEqual(indexMB,24.22);
+
+        }
+
+
         [TestMethod]
         public void T_to16()
         {

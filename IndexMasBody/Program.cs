@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace IndexMasBody
 {
@@ -12,6 +13,7 @@ namespace IndexMasBody
 
             try
             {
+                StreamWriter sw = new StreamWriter("IMT.txt");
                 //определяем вес 
                 Console.WriteLine("Введите вес ");
                 weight = double.Parse(Console.ReadLine());
@@ -42,11 +44,15 @@ namespace IndexMasBody
 
 
                 string s = IMT.IMT1(indexMB);
+
+                //Запись в файл
+                sw.WriteLine(s);
+                sw.Close();
                 Console.WriteLine(s);
             }
-            catch
+            catch(Exception e)
             {
-                Console.WriteLine("Зачем вы вводите не числа?");
+                Console.WriteLine("Exception: " + e.Message);
             }
 
 
