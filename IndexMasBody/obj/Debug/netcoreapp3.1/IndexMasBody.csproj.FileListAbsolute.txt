@@ -1,0 +1,11 @@
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\bin\Debug\netcoreapp3.1\IndexMasBody.exe
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\bin\Debug\netcoreapp3.1\IndexMasBody.deps.json
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\bin\Debug\netcoreapp3.1\IndexMasBody.runtimeconfig.json
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\bin\Debug\netcoreapp3.1\IndexMasBody.runtimeconfig.dev.json
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\bin\Debug\netcoreapp3.1\IndexMasBody.dll
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\bin\Debug\netcoreapp3.1\IndexMasBody.pdb
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\obj\Debug\netcoreapp3.1\IndexMasBody.csprojAssemblyReference.cache
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\obj\Debug\netcoreapp3.1\IndexMasBody.AssemblyInfoInputs.cache
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\obj\Debug\netcoreapp3.1\IndexMasBody.AssemblyInfo.cs
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\obj\Debug\netcoreapp3.1\IndexMasBody.dll
+D:\программирование\индек массы тела\IndexMasBody\IndexMasBody\obj\Debug\netcoreapp3.1\IndexMasBody.pdb
